@@ -5,3 +5,7 @@
 ---
 
 Email me at [denny.sandehang@gmail.com](Mailto:denny.sandehang@gmail.com)
+
+---
+
+This is another change to our project.
